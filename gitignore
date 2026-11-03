@@ -1,0 +1,17 @@
+# Secrets - never upload these
+.streamlit/secrets.toml
+.env
+
+# Private documents
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
